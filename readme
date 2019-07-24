@@ -1,0 +1,2 @@
+this project uses lstm to predict gender solely based upon the name.
+the model has been trained on about 30,000 names(indian only)
